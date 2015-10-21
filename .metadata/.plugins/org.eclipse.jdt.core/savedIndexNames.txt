@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+C:\Users\cbaines\Downloads\eclipse-jee-mars-R-win32-x86_64\eclipse\m\.metadata\.plugins\org.eclipse.jdt.core
+3423065197.index
+4228328552.index
+3294775327.index
+2487044816.index
